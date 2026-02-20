@@ -15,8 +15,13 @@ COUNCIL_MODELS = [
     "x-ai/grok-4.1-fast",
     "deepseek/deepseek-r1-0528",
     "qwen/qwen3-235b-a22b-thinking-2507",
-    "z-ai/glm-5"
+    "z-ai/glm-5",
+    "cognitivecomputations/dolphin-mistral-24b-venice-edition:free",
+    "nousresearch/hermes-4-405b",
+    "arcee-ai/trinity-large-preview:free",
+    "openai/gpt-oss-120b"
 ]
+
 CHAIRMAN_MODEL = "openai/gpt-5.2"
 
 # OpenRouter API endpoint
